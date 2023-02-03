@@ -32,3 +32,7 @@ This repo will contain all the resources I use for the A4 and A5 lab sections, a
 
 - https://levels.fyi/
 - https://www.glassdoor.com/
+
+# Pull Requests
+
+Feel free to fork and practice pull requesting to this repo
